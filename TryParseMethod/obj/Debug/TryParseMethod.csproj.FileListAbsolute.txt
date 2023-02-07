@@ -1,0 +1,6 @@
+\\et-fileserver\staff\pawnol\Desktop\TryParseMethod\bin\Debug\TryParseMethod.exe.config
+\\et-fileserver\staff\pawnol\Desktop\TryParseMethod\bin\Debug\TryParseMethod.exe
+\\et-fileserver\staff\pawnol\Desktop\TryParseMethod\bin\Debug\TryParseMethod.pdb
+\\et-fileserver\staff\pawnol\Desktop\TryParseMethod\obj\Debug\TryParseMethod.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\TryParseMethod\obj\Debug\TryParseMethod.exe
+\\et-fileserver\staff\pawnol\Desktop\TryParseMethod\obj\Debug\TryParseMethod.pdb

@@ -1,0 +1,6 @@
+\\et-fileserver\staff\pawnol\Desktop\VolumeMethod\bin\Debug\VolumeMethod.exe.config
+\\et-fileserver\staff\pawnol\Desktop\VolumeMethod\bin\Debug\VolumeMethod.exe
+\\et-fileserver\staff\pawnol\Desktop\VolumeMethod\bin\Debug\VolumeMethod.pdb
+\\et-fileserver\staff\pawnol\Desktop\VolumeMethod\obj\Debug\VolumeMethod.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\VolumeMethod\obj\Debug\VolumeMethod.exe
+\\et-fileserver\staff\pawnol\Desktop\VolumeMethod\obj\Debug\VolumeMethod.pdb

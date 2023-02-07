@@ -1,0 +1,10 @@
+\\et-fileserver\staff\pawnol\Desktop\CountVowels\bin\Debug\CountVowels.exe.config
+\\et-fileserver\staff\pawnol\Desktop\CountVowels\bin\Debug\CountVowels.exe
+\\et-fileserver\staff\pawnol\Desktop\CountVowels\bin\Debug\CountVowels.pdb
+\\et-fileserver\staff\pawnol\Desktop\CountVowels\obj\Debug\CountVowels.csproj.AssemblyReference.cache
+\\et-fileserver\staff\pawnol\Desktop\CountVowels\obj\Debug\CountVowels.CountVowelsForm.resources
+\\et-fileserver\staff\pawnol\Desktop\CountVowels\obj\Debug\CountVowels.Properties.Resources.resources
+\\et-fileserver\staff\pawnol\Desktop\CountVowels\obj\Debug\CountVowels.csproj.GenerateResource.cache
+\\et-fileserver\staff\pawnol\Desktop\CountVowels\obj\Debug\CountVowels.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\CountVowels\obj\Debug\CountVowels.exe
+\\et-fileserver\staff\pawnol\Desktop\CountVowels\obj\Debug\CountVowels.pdb
