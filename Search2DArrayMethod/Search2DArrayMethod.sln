@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search2DArrayMethod", "Search2DArrayMethod.csproj", "{A2AA84AD-7CB0-4B57-A44B-6B6F7A05E0DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2AA84AD-7CB0-4B57-A44B-6B6F7A05E0DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2AA84AD-7CB0-4B57-A44B-6B6F7A05E0DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2AA84AD-7CB0-4B57-A44B-6B6F7A05E0DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2AA84AD-7CB0-4B57-A44B-6B6F7A05E0DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDDF057C-C3F8-469C-9A52-58A0386C30A4}
+	EndGlobalSection
+EndGlobal

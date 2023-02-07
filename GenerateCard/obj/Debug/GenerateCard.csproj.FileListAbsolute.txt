@@ -1,0 +1,7 @@
+\\et-fileserver\staff\pawnol\Desktop\GenerateCard\bin\Debug\GenerateCard.exe.config
+\\et-fileserver\staff\pawnol\Desktop\GenerateCard\bin\Debug\GenerateCard.exe
+\\et-fileserver\staff\pawnol\Desktop\GenerateCard\bin\Debug\GenerateCard.pdb
+\\et-fileserver\staff\pawnol\Desktop\GenerateCard\obj\Debug\GenerateCard.csproj.AssemblyReference.cache
+\\et-fileserver\staff\pawnol\Desktop\GenerateCard\obj\Debug\GenerateCard.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\GenerateCard\obj\Debug\GenerateCard.exe
+\\et-fileserver\staff\pawnol\Desktop\GenerateCard\obj\Debug\GenerateCard.pdb

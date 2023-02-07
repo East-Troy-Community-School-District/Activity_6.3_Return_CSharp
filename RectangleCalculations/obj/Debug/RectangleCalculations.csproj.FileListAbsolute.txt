@@ -1,0 +1,7 @@
+\\et-fileserver\staff\pawnol\Desktop\RectangleCalculations\bin\Debug\RectangleCalculations.exe.config
+\\et-fileserver\staff\pawnol\Desktop\RectangleCalculations\bin\Debug\RectangleCalculations.exe
+\\et-fileserver\staff\pawnol\Desktop\RectangleCalculations\bin\Debug\RectangleCalculations.pdb
+\\et-fileserver\staff\pawnol\Desktop\RectangleCalculations\obj\Debug\RectangleCalculations.csproj.AssemblyReference.cache
+\\et-fileserver\staff\pawnol\Desktop\RectangleCalculations\obj\Debug\RectangleCalculations.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\RectangleCalculations\obj\Debug\RectangleCalculations.exe
+\\et-fileserver\staff\pawnol\Desktop\RectangleCalculations\obj\Debug\RectangleCalculations.pdb

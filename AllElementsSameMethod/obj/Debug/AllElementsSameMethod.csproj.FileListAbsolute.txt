@@ -1,0 +1,6 @@
+\\et-fileserver\staff\pawnol\Desktop\AllElementsSameMethod\bin\Debug\AllElementsSameMethod.exe.config
+\\et-fileserver\staff\pawnol\Desktop\AllElementsSameMethod\bin\Debug\AllElementsSameMethod.exe
+\\et-fileserver\staff\pawnol\Desktop\AllElementsSameMethod\bin\Debug\AllElementsSameMethod.pdb
+\\et-fileserver\staff\pawnol\Desktop\AllElementsSameMethod\obj\Debug\AllElementsSameMethod.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\AllElementsSameMethod\obj\Debug\AllElementsSameMethod.exe
+\\et-fileserver\staff\pawnol\Desktop\AllElementsSameMethod\obj\Debug\AllElementsSameMethod.pdb

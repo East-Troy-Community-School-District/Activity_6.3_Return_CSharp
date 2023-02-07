@@ -1,0 +1,6 @@
+\\et-fileserver\staff\pawnol\Desktop\Search2DArrayMethod\bin\Debug\Search2DArrayMethod.exe.config
+\\et-fileserver\staff\pawnol\Desktop\Search2DArrayMethod\bin\Debug\Search2DArrayMethod.exe
+\\et-fileserver\staff\pawnol\Desktop\Search2DArrayMethod\bin\Debug\Search2DArrayMethod.pdb
+\\et-fileserver\staff\pawnol\Desktop\Search2DArrayMethod\obj\Debug\Search2DArrayMethod.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\Search2DArrayMethod\obj\Debug\Search2DArrayMethod.exe
+\\et-fileserver\staff\pawnol\Desktop\Search2DArrayMethod\obj\Debug\Search2DArrayMethod.pdb
