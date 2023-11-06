@@ -1,7 +1,8 @@
 ﻿/*
  * Count Vowels
- * 2/7/2023
- * C#.NET I
+ * Pawelski
+ * 11/5/2023
+ * Developing Desktop Applications
  * 
  * Instructions:
  * Run the program and see what it does! How do

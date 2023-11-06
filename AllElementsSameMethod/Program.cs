@@ -1,7 +1,8 @@
 ﻿/*
  * All Elements Same Method
- * 2/7/2023
- * C#.NET I
+ * Pawelski
+ * 11/5/2023
+ * Developing Desktop Applications
  * 
  * Instructions:
  * Answer the following questions...
